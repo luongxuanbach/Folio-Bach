@@ -1,26 +1,26 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
-import cssIcon from "./images/css.svg"
-import reactIcon from "./images/react.svg"
-import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
-import codeIcon from "./images/code.svg"
+import htmlIcon from "./images/icons8-html-5.svg"
+import cssIcon from "./images/icons8-css3.svg"
+import reactIcon from "./images/icons8-react-native.svg"
+import jsIcon from "./images/icons8-javascript.svg"
+import nodeIcon from "./images/icons8-nodejs.svg"
+import phpIcon from "./images/icons8-php-logo.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
-import instagramIcon from "./images/instagram.svg"
+import icons8FacebookIcon from "./images/icons8-facebook.svg"
+import icons8InstagramIcon from "./images/icons8-instagram.svg"
+import icons8GmailIcon from "./images/icons8-gmail.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Bach",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "I'm developer",
     //Line 2 For Header
     "products, brands,",
     //Line 3 For Header
@@ -28,10 +28,10 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "I'm a Full Stack web developer working from home. 🧑🏻‍💻",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "luongxuanbach21112000@gmail.com",
 
   // End Header Details -----------------------
 
@@ -113,13 +113,13 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "I don't know what to write.",
   aboutParaTwo:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   aboutParaThree:
     "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://www.mobmaxime.com/wp-content/themes/mobmaxime/images/web-development-title.svg",
 
   //   End About Section ---------------------
 
@@ -131,32 +131,32 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Update later...",
     },
     {
       img: cssIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Update later...",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Update later...",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Update later...",
     },
     {
-      img: designIcon,
+      img: nodeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Update later...",
     },
     {
-      img: codeIcon,
+      img: phpIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Update later...",
     },
   ],
 
@@ -174,18 +174,18 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
+    { img: githubIcon, url: "https://github.com/luongxuanbach" },
     {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+      img: icons8FacebookIcon,
+      url: "https://www.facebook.com/bachori21/",
     },
     {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      img: icons8GmailIcon,
+      url: "mailto:luongxuanbach21112000@gmail.com",
     },
     {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
+      img: icons8InstagramIcon,
+      url: "https://www.instagram.com/lxbach_",
     },
   ],
 

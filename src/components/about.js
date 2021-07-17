@@ -13,13 +13,14 @@ const About = () => {
             </Fade>
             <p>
               {data.aboutParaOne}
-              <br></br>
-              <br></br>
-              {data.aboutParaTwo}
-              <br></br>
-              <br></br>
-              {data.aboutParaThree}
+              {/*<br></br>*/}
+              {/*<br></br>*/}
+              {/*{data.aboutParaTwo}*/}
+              {/*<br></br>*/}
+              {/*<br></br>*/}
+              {/*{data.aboutParaThree}*/}
             </p>
+
           </div>
           <div className="image-wrapper">
             <img src={data.aboutImage} alt="about"></img>
