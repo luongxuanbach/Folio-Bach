@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I'm a Full Stack web developer working from home. 🧑🏻‍💻",
+    "I'm a web developer working from home. 🧑🏻‍💻",
 
   //Contact Email
   contactEmail: "luongxuanbach21112000@gmail.com",
